@@ -7,6 +7,7 @@ Se pide:
 Instalar la herramienta SoapUI OpenSource (link).
 Utilizando la misma, crear un proyecto de pruebas para el siguiente servicio SOAP:
 https://www.w3schools.com/xml/tempconvert.asmx?WSDL
+
 Explorar la herramienta y las operaciones disponibles, y finalmente generar 10 casos de prueba que validen los resultados.
 Se deben incluir al menos 2 pruebas inválidas (que la operación de error).
 Se deben incluir al menos 5 pruebas cuyo resultado dependa de los datos enviados (que tengan algun parámetro de entrada).
