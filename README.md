@@ -1,10 +1,9 @@
 # Prueba-de-concepto-con-SoapUI
 
-Objetivos:
-Aprender a utilizar SoapUI para testear Web Services.
+Objetivos: Aprender a utilizar SoapUI para testear Web Services.
 Realizar una prueba de concepto contra un servicio SOAP.
-Se pide:
-Instalar la herramienta SoapUI OpenSource (link).
+
+Se pide: Instalar la herramienta SoapUI OpenSource (link).
 Utilizando la misma, crear un proyecto de pruebas para el siguiente servicio SOAP:
 https://www.w3schools.com/xml/tempconvert.asmx?WSDL
 
